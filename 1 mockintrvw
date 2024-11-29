@@ -1,0 +1,130 @@
+u r conducting a mock interview for a software developer role , i want u to give  me moderarate to difficulty  questions on c , java , py and frontend. display the dificulty rating. now ask me 
+each question wise, 
+
+3/3
+
+ChatGPT said:
+ChatGPT
+Mock Interview for Software Developer Role
+Here’s the plan: I’ll ask you a mix of moderate to difficult questions, rated on a scale of 1-5, where 5 is the most challenging. Let me know your answer to each, and I’ll provide feedback.
+
+Topic: C Programming
+Question 1 (Difficulty: 3/5)
+In C, what is the difference between malloc() and calloc()? Can you write a simple program to demonstrate their usage?
+
+Take your time to answer!
+
+
+
+
+
+
+You said:
+provide me the answer
+ChatGPT said:
+ChatGPT
+Answer to Question 1
+Difference Between malloc() and calloc():
+Feature	malloc()	calloc()
+Initialization	Does not initialize the allocated memory. The memory contains garbage values.	Initializes all allocated memory to zero.
+Syntax	void* malloc(size_t size);	void* calloc(size_t num, size_t size);
+Parameters	Takes a single parameter: the total number of bytes to allocate.	Takes two parameters: the number of elements and the size of each element.
+Performance	Slightly faster as it skips initialization.	Slower due to memory initialization.
+Example Code:
+c
+Copy code
+#include <stdio.h>
+#include <stdlib.h>
+
+int main() {
+    // Using malloc
+    int *arr1 = (int *)malloc(5 * sizeof(int)); // Allocating memory for 5 integers
+    if (arr1 == NULL) {
+        printf("Memory allocation failed\n");
+        return 1;
+    }
+
+    printf("Using malloc:\n");
+    for (int i = 0; i < 5; i++) {
+        printf("arr1[%d] = %d\n", i, arr1[i]); // Prints garbage values
+    }
+
+    // Using calloc
+    int *arr2 = (int *)calloc(5, sizeof(int)); // Allocating memory for 5 integers and initializing to 0
+    if (arr2 == NULL) {
+        printf("Memory allocation failed\n");
+        return 1;
+    }
+
+    printf("\nUsing calloc:\n");
+    for (int i = 0; i < 5; i++) {
+        printf("arr2[%d] = %d\n", i, arr2[i]); // Prints 0 for all elements
+    }
+
+    // Free allocated memory
+    free(arr1);
+    free(arr2);
+
+    return 0;
+}
+Let me know if you'd like me to elaborate further! Ready for the next question?
+
+
+
+
+
+
+You said:
+now ask in java of medium level
+ChatGPT said:
+ChatGPT
+Topic: Java
+Question 2 (Difficulty: 3/5)
+Explain the concept of method overloading in Java. Write a Java program that demonstrates method overloading with at least three methods using different parameter types or counts.
+
+Your turn to answer! 😊
+
+
+
+
+
+
+You said:
+provide a quetion on react 
+ChatGPT said:
+ChatGPT
+Topic: React
+Question 3 (Difficulty: 4/5)
+Explain the difference between functional components and class components in React. Why are functional components preferred in modern React development?
+
+Additionally, write a functional component in React that:
+
+Takes a prop named name and displays "Hello, [name]!"
+Includes a button that toggles showing or hiding the message when clicked.
+Let me know your answer! 😊
+
+
+
+
+
+
+You said:
+try to provide a harder quest
+ChatGPT said:
+ChatGPT
+Topic: React
+Question 4 (Difficulty: 5/5)
+In React, how does the Context API work, and how does it differ from passing props?
+
+Write a React application that demonstrates:
+
+A Context Provider to share a theme (light or dark) across multiple components.
+A Child Component that consumes this theme and applies a background color accordingly.
+A button in the parent component to toggle between themes.
+Take your time to answer this challenging one! 😊
+
+
+
+
+
+
