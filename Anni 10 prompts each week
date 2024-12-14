@@ -1,0 +1,308 @@
+[12/14, 7:36 AM] Gopi Chand: //week-1
+
+Difficulty Rating: 8/10 (React.js)
+"How would you implement code splitting in a React application to optimize load time for large projects?"
+
+Example Prompt:
+"Show me the answer."
+
+Difficulty Rating: 9/10 (JavaScript)
+"What are the differences between setTimeout, setImmediate, and process.nextTick in Node.js, and how do their execution orders vary?"
+
+Example Prompt:
+"Can you give me another difficult question about JS?"
+
+Difficulty Rating: 10/10 (React.js)
+"What strategies can you use to avoid performance bottlenecks caused by rendering large datasets in React components?"
+
+Example Prompt:
+"Try to give me a harder one."
+
+Difficulty Rating: 7/10 (HTML)
+"What techniques can you use to improve the accessibility of forms in HTML, particularly for screen reader users?"
+
+Example Prompt:
+"Can you give me an HTML question about accessibility?"
+
+Difficulty Rating: 9/10 (CSS)
+"How would you create a custom, reusable CSS grid framework for a design system?"
+
+Example Prompt:
+"Give me another question."
+[12/14, 7:36 AM] Gopi Chand: Prompt 1:
+"Simulate a container of diatomic helium gas molecules in JavaScript. Include collisions and van der Waals force corrections."
+
+Prompt 2:
+"Create a 2D visualization of the gas simulation with moving molecules and collisions."
+
+Prompt 3:
+"Add temperature calculation using helium mass and molecule speeds based on statistical mechanics."
+
+Prompt 4:
+"Display the real-time temperature in the simulation as a label."
+
+Prompt 5:
+"Add an HTML label below the container to show the temperature dynamically."
+
+Prompt 6:
+"Add a box to the right of the container explaining the kinetic theory of gases in HTML."
+
+Prompt 7:
+"In the box, show the equation 𝑃𝑉=𝑛𝑅𝑇 formatted neatly."
+
+Prompt 8:
+"Also include 𝐾𝐸=3/2𝑘𝑇  in the explanation box."
+
+Prompt 9:
+"Add controls like sliders to adjust molecule count, container size, and temperature."
+
+Prompt 10:
+"Include a reset button to restart the simulation and reset data."
+[12/14, 7:36 AM] Gopi Chand: //week-4
+
+Prompt 1:
+"Create an election banner with a photo of a candidate and a background of the Indian tricolour."
+
+Prompt 2:
+"Add the Indian flag prominently to the banner alongside the tricolour background."
+
+Prompt 3:
+"Include the candidate's photo on the banner with appropriate styling and placement."
+
+Prompt 4:
+"Add the candidate's name, 'Susmitha,' below the photo in bold text."
+
+Prompt 5:
+"Include a manifesto section on the banner listing: Free bus, Free electricity."
+
+Prompt 6:
+"Add the quote 'For a better tomorrow' below the candidate's name in a highlighted style."
+
+Prompt 7:
+"Include placeholders for social media links at the bottom of the banner."
+
+Prompt 8:
+"Add social media icons (e.g., Facebook, Twitter, Instagram) linked to the candidate's accounts."
+
+Prompt 9:
+"Ensure the Indian flag and tricolour background are prominent and blend well with the design."
+
+Prompt 10:
+"Make the banner responsive so it displays well on different screen sizes."
+[12/14, 7:36 AM] Gopi Chand: //Week-3
+
+Prompt 1:
+"Install Transformers and PyTorch in Google Colab using !pip install transformers torch."
+
+Prompt 2:
+"Import the necessary modules for GPT-2 from Hugging Face Transformers library."
+
+Prompt 3:
+"Create a ChatBot class to handle context and use GPT-2 for text generation."
+
+Prompt 4:
+"Add a method in the class to store and manage conversation history."
+
+Prompt 5:
+"Add a generate_response method to generate replies using GPT-2 based on conversation history."
+
+Prompt 6:
+"Include a method to clear the conversation history in the ChatBot class."
+
+Prompt 7:
+"Demonstrate the chatbot with predefined user inputs to show how it maintains context."
+
+Prompt 8:
+"Write a script to initialize the chatbot and simulate a conversation."
+
+Prompt 9:
+"Copy all the code into Google Colab and run it."
+
+Prompt 10:
+"Verify the chatbot generates correct, context-aware responses."
+[12/14, 7:36 AM] Gopi Chand: //Week-5
+
+Prompt 1:
+"What are the most common customer complaints in an online e-commerce shop?"
+
+Prompt 2:
+"List the top 3-5 customer complaints briefly."
+
+Prompt 3:
+"Focus on complaints related to late or delayed delivery."
+
+Prompt 4:
+"What are the main reasons for late or delayed deliveries in e-commerce?"
+
+Prompt 5:
+"Suggest key recommendations to handle late or delayed deliveries effectively."
+
+Prompt 6:
+"What communication strategies can e-commerce businesses use to manage delayed deliveries?"
+
+Prompt 7:
+"List 3-5 ways to improve delivery times and reduce delays."
+
+Prompt 8:
+"How can an e-commerce shop ensure transparency about delivery times with customers?"
+
+Prompt 9:
+"Suggest ways to compensate customers for late deliveries to maintain trust."
+
+Prompt 10:
+"Summarize the best practices for handling delayed deliveries in e-commerce."
+[12/14, 7:36 AM] Gopi Chand: //Week-6
+
+Prompt 1:
+"Write a simple program in C to calculate the sum of two numbers."
+
+Prompt 2:
+"Explain the program in simple steps to understand its logic."
+
+Prompt 3:
+"Convert the same program to Python."
+
+Prompt 4:
+"Convert the same program to Java."
+
+Prompt 5:
+"Convert the same program to JavaScript."
+
+Prompt 6:
+"Convert the same program to C++."
+
+Prompt 7:
+"Convert the same program to Ruby."
+
+Prompt 8:
+"Convert the same program to PHP."
+
+Prompt 9:
+"Ensure the converted programs are functionally equivalent to the original C program."
+
+Prompt 10:
+"Summarize how the syntax and logic differ across these programming languages."
+[12/14, 7:36 AM] Gopi Chand: //Week-7
+
+Prompt 1:
+"Provide me a simple C program to add two numbers."
+
+Prompt 2:
+"Show me the output of the above program with an example."
+
+Prompt 3:
+"Simplify the code by removing any unnecessary variables or steps."
+
+Prompt 4:
+"Rewrite the code with meaningful variable names for clarity."
+
+Prompt 5:
+"Ensure the program includes clear comments explaining each step."
+
+Prompt 6:
+"Modify the code to take user input for the two numbers in the simplest way possible."
+
+Prompt 7:
+"Remove any redundant lines or statements to make the program shorter and cleaner."
+
+Prompt 8:
+"Format the code properly with indentation and spacing for better readability."
+
+Prompt 9:
+"Add a message in the output that clearly explains the result to the user."
+
+Prompt 10:
+"Show the final cleaned and simplified version of the program with the output example."
+[12/14, 7:36 AM] Gopi Chand: //week-8
+
+Prompt 1:
+"In Google Colab, install the googletrans library with the command: !pip install googletrans==0.0-rc1."
+
+Prompt 2:
+"Import the googletrans library and required modules in Python."
+
+Prompt 3:
+"Write a Python script that uses Google Translate to translate text into English."
+
+Prompt 4:
+"Create a function that takes a list of conversational text and translates each entry into English."
+
+Prompt 5:
+"Ensure the function handles different languages and detects the source language automatically."
+
+Prompt 6:
+"Add error handling for cases where translation might fail."
+
+Prompt 7:
+"Test the script by translating a few sentences in different languages to English."
+
+Prompt 8:
+"Make the function return both the original and translated text for each conversation entry."
+
+Prompt 9:
+"Add comments to explain the steps and logic behind the code."
+
+Prompt 10:
+"Paste the final script in Google Colab and run it to verify the translation works correctly."
+[12/14, 7:36 AM] Gopi Chand: //Week-9
+
+Prompt 1:
+"Illustrate the process of photosynthesis in a leaf, showing how energy flows through each cell in the plant."
+
+Prompt 2:
+"Show the conversion of CO2 and water into glucose and oxygen in the leaf, with arrows indicating the flow of CO2 entering the leaf and glucose exiting."
+
+Prompt 3:
+"Create a scientifically detailed diagram of a lunar eclipse, showing the relative positions of the Sun, Earth, and Moon."
+
+Prompt 4:
+"Indicate the different phases of the lunar eclipse: partial, total, and penumbral, and show how the appearance of the Moon changes during these phases."
+
+Prompt 5:
+"Illustrate the nature of the shadowing process in a lunar eclipse, and explain how it affects the Moon's appearance."
+
+Prompt 6:
+"Show the path of the Moon's orbit, the tilt of Earth's axis, and explain why lunar eclipses are visible from certain locations on Earth."
+
+Prompt 7:
+"Describe the precise timing of each phase of the lunar eclipse and the phenomenon of a blood moon."
+
+Prompt 8:
+"Add additional scientific details about the timing and visibility of lunar eclipses, including when and why they occur."
+
+Prompt 9:
+"Create a flowchart or diagram showing the entire process of photosynthesis and its connection to energy transfer within the plant."
+
+Prompt 10:
+"Ensure the lunar eclipse diagram includes all relevant information such as the shadow types (umbra, penumbra), and the Moon’s color during a blood moon."
+[12/14, 7:36 AM] Gopi Chand: //Week-10
+
+Prompt 1:
+"Give a basic explanation of Support Vector Machines (SVM) for research."
+
+Prompt 2:
+"Extend the introduction of SVM, explaining its main concepts and types."
+
+Prompt 3:
+"Explain the key math behind SVM, like hyperplanes and kernels."
+
+Prompt 4:
+"Discuss the pros and cons of using SVM compared to other algorithms."
+
+Prompt 5:
+"Provide datasets for SVM research, such as the Iris dataset."
+
+Prompt 6:
+"Explain how to prepare the dataset for SVM, including normalization."
+
+Prompt 7:
+"Show how to train an SVM model using Python and scikit-learn."
+
+Prompt 8:
+"Explain how to evaluate SVM performance with accuracy and other metrics."
+
+Prompt 9:
+"Show results of an SVM model with graphs like decision boundaries or ROC curves."
+
+Prompt 10:
+"Summarize the findings on SVM, its applications, and future research ideas."
